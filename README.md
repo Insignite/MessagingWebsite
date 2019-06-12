@@ -1,5 +1,7 @@
 # Messaging Website Project
-*__Disclosure:__ The goal of this project is to learn how to create a general messaging website, which included log-in, sign-up, add/remove friends, and messaging system. It helping me being more involve with Web Development field and familiarize myself with Angular 6, Socket IO, Json Web Token, CORS, MongoDB, etc. This is a personal project and used for Senior Design CECS 491A & CECS 491B class at CSULB. Majority code and styling of this project is from following tutorial [Angular Ionic Node Build A Real Web Mobile Chat App](https://www.udemy.com/angular-ionic-node-build-a-real-web-mobile-chat-app/) class on Udemy. I simply modify the tutorial and add extra functionalities as needed to build this website.*
+*__Disclosure:__ The goal of this project is to learn how to create a general messaging website, which included log-in, sign-up, add/remove friends, and messaging system. It helping me being more involve with Web Development field and familiarize myself with Angular 6, Socket IO, Json Web Token, CORS, MongoDB, etc. This is a personal project and used for Senior Design CECS 491A & CECS 491B class at CSULB __(Full project link for the class, which included ASL single hand gesture recognition, python peer-to-peer video chat, and documentations can be found [here](https://github.com/chriztaka1997/ASL-to-hand-recognition))__. Majority code and styling of this project is from following tutorial [Angular Ionic Node Build A Real Web Mobile Chat App](https://www.udemy.com/angular-ionic-node-build-a-real-web-mobile-chat-app/) class on Udemy. I simply modify the tutorial and add extra functionalities as needed to build this website.*
+
+
 
 
 ### Instruction
