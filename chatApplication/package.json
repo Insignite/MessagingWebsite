@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
     "core-js": "^2.6.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
     "ngx-auto-scroll": "^1.1.0",
